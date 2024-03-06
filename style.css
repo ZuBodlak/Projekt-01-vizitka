@@ -23,12 +23,19 @@ h3 {
     margin-bottom: 15px;
 }
 
+section {
+padding: 20px 10px 20px 10px
+
+}
 
 body{
     color: rgb(43, 30, 21);
     background-color: rgb(143, 238, 238);
 }
-
+.uvod {
+    background-color: whitesmoke;¨
+    padding: 10py 10px 10px 10px;
+}
 
 .hlavicka {
     background-image: url(Fotky/seljalandsfoss-1751463_1280.jpg);
@@ -38,7 +45,7 @@ body{
     width: 250px;
     overflow: auto;
     float: left;
-    margin: 0 20px 20px 0;
+    margin: 20px 20px 20px 20px;
    }
 .poslednifoto{
 max-width: 500px;
